@@ -1,4 +1,7 @@
 # BANTAI - Business Assistance for Negosyante Tasks using Artificial Intelligence 
+
+![image](https://github.com/user-attachments/assets/d4d7320e-be8e-472d-a8ef-8789e6cb29ee)
+
 Business Assistance for Negosyante Tasks using Artificial Intelligence (BANTAI) is an AI-powered computer-vision platform that watches shop-floor cameras and instantly flags safety-rule violations. By replacing costly manual inspections with real-time automated checks and concise, data-driven recommendations, BANTAI lets small Filipino businesses protect workers, control costs, and keep customers safe and happy. 
 Its analytics dashboard tallies violations by type and shift traces root causes and highlights best practices that raise overall safety culture. Beyond compliance, feed from the same cameras counts customers and tracks foot traffic patterns anonymously. This gives owners evidence to optimize staffing, merchandising, and peak-hour promotions. Because BANTAI is cloud-hosted and plug-and-play with off-the-shelf CCTV systems, shops can deploy it in hours without specialized hardware or dedicated IT staff. 
 BANTAI converts ordinary security footage into a 24/7 digital safety officer and business analyst, freeing entrepreneurs to focus on growth while providing employees with a safer, more productive workplace.
